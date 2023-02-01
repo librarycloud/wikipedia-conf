@@ -37,5 +37,5 @@ nginx要添加`ngx_brotli`model。
 
 部分dns（例如aliyun）的解析记录还需添加所有去除`*.`的记录。
 ## 参考：
-> + https://zh.wikimirror.org/wiki/help
+> + https://github.com/AnYiEE/nginx-wikimirror
 > + https://github.com/imlinhanchao/ngx_proxy_wiki
