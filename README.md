@@ -39,3 +39,9 @@ nginx要添加`ngx_brotli`model。
 ## 参考：
 > + https://github.com/AnYiEE/nginx-wikimirror
 > + https://github.com/imlinhanchao/ngx_proxy_wiki
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flibrarycloud%2Fwikipedia-conf%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/librarycloud/wikipedia-conf.svg)](https://starchart.cc/librarycloud/wikipedia-conf)
